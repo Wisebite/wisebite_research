@@ -1,4 +1,4 @@
-# Wisebite: Project report
+# Wisebite: Project research
 *An intelligent platform to manage your restaurant.*
 
 First steps in Wisebite platform reflected in documentacion based in GEP subject
